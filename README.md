@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" height="204" src="https://github-readme-stats.vercel.app/api?username=grassipaula&show_icons=true&theme=aura_dark" alt="grassipaula" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grassipaula&show_icons=true&theme=aura_dark" alt="grassipaula" /></p>
+
+![snake gif](https://github.com/grassipaula/grassipaula/blob/output/github-contribution-grid-snake.svg)
