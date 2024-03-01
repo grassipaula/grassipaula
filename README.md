@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/2f/f6/be/2ff6bea2b81907e48ae3daac5791b6a3.jpg">
 
 
-- I’m currently learning **JavaScript, TypeScript, React, Java and Nodejs**
+- I’m currently learning **JavaScript, TypeScript, React and Java**
 
 - 📫 How to reach me **paulagrassi.dev@gmail.com**
 
