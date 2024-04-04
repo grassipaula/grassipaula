@@ -32,3 +32,9 @@
 <p>&nbsp;<img align="center" height="204" src="https://github-readme-stats.vercel.app/api?username=grassipaula&show_icons=true&theme=aura_dark" alt="grassipaula" /></p>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grassipaula/grassipaula/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grassipaula/grassipaula/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/grassipaula/grassipaula/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
